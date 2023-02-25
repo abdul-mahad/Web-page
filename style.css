@@ -83,16 +83,19 @@ border: 2px double #373644;
     margin-top: -10vh;
 }
 .name2{
+  
     border-bottom: 6px solid yellow;
-    width: 220px;
-    margin-left: 80px;
-    padding-bottom: 20px;
+    width: 203px;
+    margin-left: 84px;
+    padding-bottom: 11px;
+
 }
 
 .para{
-    width: 300px;
+    width: 336px;
     border: 2px solid #373644;
     color: white;
+    font-size: 18px;
     margin:  29px 0px 0px 78px;;
 }
 /* ##################### pic ############### */
@@ -115,12 +118,14 @@ border: 2px double #373644;
     width: 29%;
     /* border: 10px solid red; */
     padding-right: 51px;
-    margin-left: 84px;
-    margin-top: 100px;
+    margin-left: 150px;
+    margin-top: 101px;
     z-index: 14;
 }
 .graph{
     color: white;
+    font-size: 20px;
+    line-height: 30px;
 }
 .elements{
     display: block !important;
@@ -132,6 +137,14 @@ border: 2px double #373644;
     font-size: 1.3rem;
     margin-top: -15vh;
 }
+.last{
+    position: relative;
+    top: 8px;
+    height: 10px !important;
+    left: -150px;}
+/* .fa-arrow-right{
+   position: absolute;
+} */
 .fa-facebook{
   margin-right: 10px;
   background: rgb(102, 102, 11);
@@ -189,10 +202,10 @@ border: 2px double #373644;
     color: white;
     margin-top: 15vh;
     
-    font-size: 80px;
+    font-size: 70px;
     width: 75%; 
     text-align: center !important;
-    margin-left: 87px;}
+    margin-left: 42px;}
     .f-items p{
         color: white;
         width: 75%;
@@ -201,8 +214,8 @@ border: 2px double #373644;
     }
     .f-items h2{
         color: #fff;
-        font-size: 80px;
-        margin-left: 10vw;
+        font-size: 70px;
+        margin-left: 6vw;
     }
     .f-items p{
         color: #fff;
@@ -227,7 +240,7 @@ border: 2px double #373644;
 }
 .pi{
     height: 33%;
-    width: 100%;
+    width: 87%;
     border-bottom: 2px solid white;
     display: flex;
 }
