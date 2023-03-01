@@ -242,21 +242,21 @@ border: 2px double #373644;
     display: flex;
 }
 .pi{
-    height: 33%;
+    height: 25%;
     width: 87%;
     border-bottom: 2px solid white;
     display: flex;
 }
 .pi img{
-    margin-top: 65px;
+    margin-top: 70px;
     margin-left: 55px;
     height: 50%;
 }
 .pi h1{
-    margin-top: 104px;
-    margin-left: 26px;
+    margin-top: 100px;
+    margin-left: 24px;
     height: 50%;
-    font-size: 38px;
+    font-size: 33px;
     color: white;
 }
 .fa-arrow-right{
@@ -282,4 +282,49 @@ border: 2px double #373644;
 .wheel-icon{
     color: #fff;
     margin-top: -4vh;
+}
+/* ///////////////////////////////// no-more//////////////////////// */
+.no-more{
+    height: 300px;
+    width: 100%;
+    background-color: #282834;
+    display: flex;
+    justify-content: center;
+    
+}
+.no1{
+    height: 325px;
+    width: 26%;
+    background-color: #3d3f4f;
+    /* border: 1px solid red; */
+    position: relative;
+    top: -1px;
+    right: 7px;
+    margin: 11px;
+}
+.no1 img{
+   
+    color: yellow;
+    height: 79px;
+    border-radius: 50px;
+    margin-top: 33px;
+    margin-left: 20px;
+}
+.no1 h1{
+    color: white;
+    font-size: 39px;
+    margin-top: 5px;
+    margin-left: 35px;
+}
+.no1 p{
+    color: white;
+    font-size: 24px;
+    margin-top: 13px;
+    margin-left: 38px;
+    line-height: 30px;
+}
+.non{
+    height:55px;
+    width: 100%;
+    background-color: #373644;
 }
